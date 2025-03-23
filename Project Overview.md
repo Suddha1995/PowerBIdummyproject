@@ -52,6 +52,8 @@ The following key cost assurance metrics are displayed via card visuals:
 
 ![Image](https://github.com/user-attachments/assets/60fb9c70-e09e-4916-b708-2582fcf381b4)
 
+- Tooltips: Addition of tooltips on visuals give deeper insights on financial figures with just hovering the mouse on visual, making it effortless to dive in details.
+
 #### 4. Interactive Capabilities
 
 - Clicking on "Unrealized Savings" in a Card Visual: Filters the contract table visual to show only the contracts that contribute to unrealized savings.
