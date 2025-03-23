@@ -19,7 +19,7 @@ Card visual showing Project overview & milestone achieved:
 
 3. Contract Performance – The dashboard provides insights into contract-wise savings, enabling better contract management and negotiations for future cost reductions.
 
-Account wise drill down report:
+Account wise savings table:
 
 ![Image](https://github.com/user-attachments/assets/e2797b81-90d5-478a-8e8b-6f0658349322)
 
@@ -29,13 +29,12 @@ Prduct wise savings segregation:
 
 <img width="379" alt="Image" src="https://github.com/user-attachments/assets/2e230001-8e43-424b-a49f-afe47d6a70db" />
 
-
 5. Interactive Filtering & Drill-Down Analysis – Slicers and filters allow users to dynamically analyze data based on parameters such as savings status, resource names, and contract details, ensuring an in-depth understanding of cost transformation trends.
 
 <img width="463" alt="Image" src="https://github.com/user-attachments/assets/ec4fe717-bf38-4f00-a54b-15ab9b2b5d17" />
 
 The final dashboard which includes all graphs and charts explaining various parameters under one sheet looks like below:
 
-
+![Image](https://github.com/user-attachments/assets/67c8cba3-3f38-4f7f-8f21-228e5396ccdd)
 
 This Power BI dashboard serves as a centralized, data-driven tool that empowers decision-makers to optimize resources effectively, recognize high-performing individuals and drive continuous improvements in cost-saving strategies.
