@@ -21,8 +21,7 @@ Card visual showing Project overview & milestone achieved:
 
 Account wise drill down report:
 
-<img width="463" alt="Image" src="https://github.com/user-attachments/assets/ec4fe717-bf38-4f00-a54b-15ab9b2b5d17" />
-
+![Image](https://github.com/user-attachments/assets/e2797b81-90d5-478a-8e8b-6f0658349322)
 
 4. Product-Level Insights – Visuals like donut charts and bar graphs showcase product-specific savings, helping in identifying high-impact areas for cost optimization.
 
@@ -32,5 +31,11 @@ Prduct wise savings segregation:
 
 
 5. Interactive Filtering & Drill-Down Analysis – Slicers and filters allow users to dynamically analyze data based on parameters such as savings status, resource names, and contract details, ensuring an in-depth understanding of cost transformation trends.
+
+<img width="463" alt="Image" src="https://github.com/user-attachments/assets/ec4fe717-bf38-4f00-a54b-15ab9b2b5d17" />
+
+The final dashboard which includes all graphs and charts explaining various parameters under one sheet looks like below:
+
+
 
 This Power BI dashboard serves as a centralized, data-driven tool that empowers decision-makers to optimize resources effectively, recognize high-performing individuals and drive continuous improvements in cost-saving strategies.
